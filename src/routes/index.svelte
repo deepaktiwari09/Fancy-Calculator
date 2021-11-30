@@ -157,7 +157,7 @@
 main{
     display: grid;
     place-content: center;
-    background-color:blue;
+    
 }
 main>div{
     font-size: var(--font-s1);
